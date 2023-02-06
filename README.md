@@ -7,6 +7,5 @@ A *Hello, World!* program is  generally a computer program that ignores any inpu
 1. python 
 2. c
 - java
-`code`
 
-[java **hello world** program](https://www.programiz.com/java-programming/hello-world)
+`code` [ **hello world**](https://www.programiz.com/java-programming/hello-world)
