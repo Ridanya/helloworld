@@ -96,3 +96,8 @@ prometheus will collect it and alert manager will send the alerts to webhook.
  Silences- when we upgrade our software,there might be lot of alerts telling that these pods are unhealthy.
 
  We have create a silence to stop those alerts from coming for a ceratin period of time.
+
+ #### Astronomer UI
+
+![astronomer UI](astro.png)
+
